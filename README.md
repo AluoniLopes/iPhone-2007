@@ -2,6 +2,10 @@
 
 Este é um projeto de estudo desenvolvido seguindo as aulas da Digital Innovation One (DIO), que simula a criação de um iPhone 2007 utilizando conceitos de Programação Orientada a Objetos (POO).
 
+## UML
+
+![UML representação do iPhone 2007](uml.png)
+
 ## Conceitos Utilizados
 
 Neste projeto, foram aplicados os seguintes conceitos de Programação Orientada a Objetos (POO):
